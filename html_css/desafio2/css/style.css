@@ -1,0 +1,21 @@
+body {
+    color: #303030;
+}
+div {
+    text-align: center;
+    background: #b8b8c1;
+}
+p span{
+    font-weight: bold;
+}
+img {
+    width:200px;
+}
+h1, h2 {
+    text-align: center;
+}
+h3 {
+    text-transform: uppercase;
+    font-size: 32px;
+    color: blue;
+}
