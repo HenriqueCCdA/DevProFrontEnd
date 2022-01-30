@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+}
+
+.container{
+    padding: 60px;
+    text-align: center;
+    background-color: #F9F7F3;
+}
+
+.header1{
+    font-size: 3rem;
+}
+
+.header2{
+    font-size: 2rem;
+}
+
+.cor-nome{
+    color: blue;
+}
+
+.cor-rgb{
+    /*
+        Min .............. Max
+        0                  255
+    */
+    color: rgb(21, 179, 241)
+}
+
+.cor-cerquilha{
+    /*
+    Min                           Max
+    0 1 2 3 4 5 6 7 8 9 A B C D E F
+
+    */
+    color: #15b3f1
+}
